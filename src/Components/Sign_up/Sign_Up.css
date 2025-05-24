@@ -1,0 +1,22 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.nav-item{
+    padding: 20px;
+}
+.blacktext{
+    color: black;
+}
+
+
+form>label{
+    float: left;
+}
+form>div>button{
+    width: 60%;
+}
